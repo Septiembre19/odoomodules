@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-	'name': "Panama Provincias",
+	'name': "Panama - Provincias",
 
-	'summary': """
-		Panama Provincias""",
+	'summary': "",
 
 	'description': """
 		Agrega las provincias y comarcas de Panamá como valores seleccionables dentro 
@@ -11,11 +10,11 @@
 	""",
 
 	'author': "Luis Dominguez",
-	# 'website': "http://www.yourcompany.com",
+	'website': "http://www.devsl.xyz",
 	'category': 'Technical Settings',
 	'maintainer':"Luis Dominguez",
-	'support': 'luis.dominguez19@yahoo.es',
-	'version': '13.0.1.0.0',
+	'support': 'soporte@devsl.xyz',
+	'version': '1.0.0',
 	'license': 'LGPL-3',
 	'depends': ['base'],
 
