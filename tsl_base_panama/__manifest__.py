@@ -5,8 +5,8 @@
 	'summary': "",
 
 	'description': """
-		Agrega las provincias y comarcas de Panamá como valores seleccionables dentro 
-		del campo Estado. 
+- Agrega las provincias y comarcas de Panamá como valores seleccionables dentro del campo Estado. 
+- Deshabilita la propiedad requerida en el campo ZIP.
 	""",
 
 	'author': "Luis Dominguez",

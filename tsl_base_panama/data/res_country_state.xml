@@ -6,6 +6,11 @@
 			Informacion obtenida de : http://www.statoids.com/upa.html
 			y del documento pdf del sistema de facturacion electronica
 		-->
+
+		<record id="base.pa" model="res.country">
+			<field name="zip_required" eval="False" />
+		</record>
+
 		
 		<record model="res.country.state" id="provincia_PA_BC">
 			<field name="code">PA.BC</field>
