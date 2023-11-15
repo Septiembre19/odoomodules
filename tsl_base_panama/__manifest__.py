@@ -13,6 +13,7 @@
 	'category': 'Technical Settings',
 	'maintainer':"Luis Dominguez",
 	'support': 'soporte@devsl.xyz',
+	'website': 'https://www.devsl.xyz',
 	'version': '1.0.0',
 	'license': 'LGPL-3',
 	'depends': ['base'],
