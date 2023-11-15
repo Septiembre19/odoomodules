@@ -10,7 +10,6 @@
 	""",
 
 	'author': "Luis Dominguez",
-	'website': "http://www.devsl.xyz",
 	'category': 'Technical Settings',
 	'maintainer':"Luis Dominguez",
 	'support': 'soporte@devsl.xyz',
